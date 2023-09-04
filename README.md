@@ -6,7 +6,7 @@
 | Dimas Prihady Setyawan | 5025211184 |
 
 ## Deskripsi Singkat Aplikasi
-Aplikasi webcam menggunakan Framework C# yaitu .net. Pada applikasi desktop ini user dapat mengambil gambar melalui webcam
+Aplikasi media capture menggunakan Framework C# yaitu .net. Pada aplikasi desktop ini user dapat mengambil gambar melalui webcam user
 
 ## Dokumentasi
 
