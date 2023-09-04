@@ -10,7 +10,7 @@ Aplikasi media capture menggunakan Framework C# yaitu .net. Pada aplikasi deskto
 
 ## Dokumentasi
 https://github.com/yaboidimsum/PBKK_Tugas2_WebCamApp/blob/main/Media%20Capture.jpg
-<img alt="image" src="https://github.com/yaboidimsum/PBKK_Tugas2_WebCamApp/blob/main/Media%20Capture.jpg?raw=true">
+<img alt="image" src="https://github.com/yaboidimsum/PBKK_Tugas2_WebCamApp/blob/main/Media%20Capture.jpg">
 
 ## Referensi
 https://www.youtube.com/watch?v=HUiV10g1VLU
